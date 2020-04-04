@@ -10,7 +10,7 @@
 
 **Based on:** [AnimeGAN](https://github.com/TachibanaYoshino/AnimeGAN)
 
-This is the Open source of the paper **AnimeGAN: a novel lightweight GAN for photo animation**, which uses the GAN framwork to transform real-world video frames into anime.
+This is the Open source of the paper **"AnimeGAN: a novel lightweight GAN for photo animation"**, which uses the GAN framwork to transform real-world video frames into anime.
 
 **Result Example:**
 
